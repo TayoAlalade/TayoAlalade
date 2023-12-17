@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TayoAlalade
-- 👀 I’m interested in Web Development and AI/ Machine Learning 
-- 🌱 I’m currently a Third year Computer Science Student
-- 📫 You can reach me through either of my emails tjalalade@gmail.com or alaladej@uwindsor.ca
+- 👋 Hey! I’m Tayo Alalade
+- 👀 I’m interested in Web Development and AI/Deep Learning 
+- 🌱 I’m currently a Fourth-year Computer Science Student with a specialization in Artificial Intelligence
+- 📫 You can reach me through either of my email tjalalade@gmail.com
 
